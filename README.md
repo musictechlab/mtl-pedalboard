@@ -1,5 +1,7 @@
 # Bravelab: Spotify Pedalboard Sandbox
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 ## Overview
 
 Audio Effects GUI is an open-source application that provides a graphical user interface for applying real-time audio effects. Utilizing the power of the Spotify's Pedalboard library, this application allows users to easily manipulate audio input and output with various effects such as gain, delay, and reverb.
@@ -26,5 +28,3 @@ Install the required Python packages using `pip`:
 
 ```bash
 pip install -r requirements
-
-
