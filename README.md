@@ -1,4 +1,4 @@
-# Bravelab: Spotify Pedalboard Sandbox
+# MusicTech Lab: Spotify Pedalboard Sandbox
 
 [![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
